@@ -21,3 +21,11 @@ Este modulo contiene la creación de un modelo de regresión lineal para predeci
 ### 5. Present_Data_Driven_Insights
 
 Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos y de la predicción de los proximos lanzamiento de cohetes de space x.
+
+## Descripción del proyecto
+
+### 1. Objetivo
+
+El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de ciencia de datos aplicada de IBM, para lo cual se plantea el siguiente problema:
+
+Se requiere hacer un analisis exploratorio de los datos sobre los lanzamientos de cohetes de space x y predecir el precio de las propiedades en el analisis del lanzamiento de cohetes.
