@@ -20,4 +20,4 @@ Este modulo contiene la creación de un modelo de regresión lineal para predeci
 
 ### 5. Present_Data_Driven_Insights
 
-Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos y de la predicción del precio de las propiedades en el analisis del lanzamiento de cohetes.
+Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos y de la predicción de los proximos lanzamiento de cohetes de space x.
