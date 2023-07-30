@@ -1,31 +1,35 @@
-Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de ciencia de datos aplicada de IBM
 
-## Modulos
+# Applied Data Science Final Project
+
+##Description
+
+The objective of this project is to apply the knowledge acquired in the Applied Data Science course by IBM. The following problem is addressed:
+
+Conduct an exploratory data analysis of SpaceX rocket launch data and predic the orbit in the context of rocket launches.
+
+
+## Modules
 
 ### 1. Introduction
 
-Este modulo contiene la introducción al proyecto, la descripción del problema y la descripción de los datos ademas del datasete y la aplicacion de scraping para obtenerlos.
+This module includes the project introduction, problem description, data description, dataset, and the application of scraping to obtain the data.
 
-### 2. EDA
+### 2. EDA (Exploratory Data Analysis)
 
-Este modulo contiene el analisis exploratorio de los datos, la limpieza de los mismos y la visualización de los resultados.
+This module covers the exploratory data analysis, data cleaning, and visualization of the results.
 
-### 3. Interactive Visual_Analytics_and_Dashboard
+### 3. Interactive Visual Analytics and Dashboard
 
-Este modulo contiene la creación de un dashboard interactivo para visualizar los resultados del analisis exploratorio de los datos.
+This module involves creating an interactive dashboard to visualize the results of the exploratory data analysis.
 
-### 4. Predictive_Analysis
+### 4. Predictive Analysis
 
-Este modulo contiene la creación de un modelo de regresión lineal para predecir el precio de las propiedades en el analisis del lanzamiento de cohetes.
+This module entails creating a linear regression model to predict the property prices in the rocket launch analysis.
 
-### 5. Present_Data_Driven_Insights
+### 5. Present Data-Driven Insights
 
-Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos y de la predicción de los proximos lanzamiento de cohetes de space x.
+This module comprises the presentation of the exploratory data analysis results and the prediction of upcoming SpaceX rocket launches.
 
-## Descripción del proyecto
 
-### 1. Objetivo
-
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de ciencia de datos aplicada de IBM, para lo cual se plantea el siguiente problema:
-
-Se requiere hacer un analisis exploratorio de los datos sobre los lanzamientos de cohetes de space x y predecir el precio de las propiedades en el analisis del lanzamiento de cohetes.
+# Disclaimers
+This repo contains the necessary files for the final project submission of the Applied Data Science course by IBM.
