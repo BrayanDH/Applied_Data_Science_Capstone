@@ -1,7 +1,7 @@
 
 # Applied Data Science Final Project
 
-##Description
+## Description
 
 The objective of this project is to apply the knowledge acquired in the Applied Data Science course by IBM. The following problem is addressed:
 
